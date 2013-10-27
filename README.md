@@ -1,4 +1,4 @@
 tomee-test
 ==========
 
-A test of JSF 2.2 and CDI on TomEE 1.6-SNAPSHOT
+A simple web app that's soley intended to test JSF 2.2 and CDI on TomEE 1.6-SNAPSHOT.
